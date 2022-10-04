@@ -1,15 +1,5 @@
 # FishFinder
-CS501 Project - Helps users find fish and where they can catch them. Also displays fish facts
-
-Github URL: https://github.com/omeedth/FishFinder
-
-# Project Requirements
-- Your App must be worthwhile.
-- Your App must utilize two significant APIs.
-- Your App must have a database backend, eg, FireBase.
-- Your App must utilize authentication, again, eg, FireBase.
-- Your App must have a preferences page.
-- Due 4/20/2021
+Helps users find fish and where they can catch them. Also displays fish facts
 
 # Description
 Is mobile application, developed using Android Studio to help users learn about fish and also to locate fish: The user can learn basic information about fish such: length, weight, body shapeÉ so far the user can search for these information by entering ÒSpecies NameÓ but, in our final version f the app we will change the setup so he user can search by entering the ÒCommon NameÓ of the fish.
